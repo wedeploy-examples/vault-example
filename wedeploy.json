@@ -1,0 +1,10 @@
+{
+    "id": "vault",
+    "image": "vault",
+    "port": 1234,
+    "env": {
+        "VAULT_DEV_ROOT_TOKEN_ID": "myroot",
+        "VAULT_DEV_LISTEN_ADDRESS": "0.0.0.0:1234"
+    }
+    
+}
